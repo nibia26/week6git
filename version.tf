@@ -8,6 +8,8 @@ terraform {
   }
 }
 
+#this ligne is inactive
+
 provider "aws" {
     region = "us-east-2"  
 }
